@@ -1,0 +1,312 @@
+: Carl "CJ" Johnson (Main Character) : 0 : cj
+: The Truth : 1 : truth
+: Maccer : 2 : maccer
+: Andre : 3 : andre
+: Barry "Big Bear" Thorne [Thin] : 4 : bbthin
+: Barry "Big Bear" Thorne [Big] : 5 : bb
+: Emmet : 6 : emmet
+: Taxi Driver/Train Driver : 7 : male01
+: Janitor : 8 : janitor
+: Normal Ped : 9 : bfori
+: Old Woman : 10 : bfost
+: Casino croupier : 11 : vbfycrp
+: Rich Woman : 12 : bfyri
+: Street Girl : 13 : bfyst
+: Normal Ped : 14 : bmori
+: Mr.Whittaker (RS Haul Owner) : 15 : bmost
+: Airport Ground Worker : 16 : bmyap
+: Businessman : 17 : bmybu
+: Beach Visitor : 18 : bmybe
+: DJ : 19 : bmydj
+: Rich Guy (Madd Dogg's Manager) : 20 : bmyri
+: Normal Ped : 21 : bmycr
+: Normal Ped : 22 : bmyst
+: BMXer : 23 : wmybmx
+: Madd Dogg Bodyguard : 24 : wbdyg1
+: Madd Dogg Bodyguard : 25 : wbdyg2
+: Backpacker : 26 : wmybp
+: Construction Worker : 27 : wmycon
+: Drug Dealer : 28 : bmydrug
+: Drug Dealer : 29 : wmydrug
+: Drug Dealer : 30 : hmydrug
+: Farm-Town inhabitant : 31 : dwfolc
+: Farm-Town inhabitant : 32 : dwmolc1
+: Farm-Town inhabitant : 33 : dwmolc2
+: Farm-Town inhabitant : 34 : dwmylc1
+: Gardener : 35 : hmogar
+: Golfer : 36 : wmygol1
+: Golfer : 37 : wmygol2
+: Normal Ped : 38 : hfori
+: Normal Ped : 39 : hfost
+: Normal Ped : 40 : hfyri
+: Normal Ped : 41 : hfyst
+: Jethro : 42 : jethro
+: Normal Ped : 43 : hmori
+: Normal Ped : 44 : hmost
+: Beach Visitor : 45 : hmybe
+: Normal Ped : 46 : hmyri
+: Normal Ped : 47 : hmycr
+: Normal Ped : 48 : hmyst
+: Snakehead (Da Nang) : 49 : omokung
+: Mechanic : 50 : wmymech
+: Mountain Biker : 51 : bmymoun
+: Mountain Biker : 52 : wmymoun
+: Unknown : 53 : ofori
+: Normal Ped : 54 : ofost
+: Normal Ped : 55 : ofyri
+: Normal Ped : 56 : ofyst
+: Oriental Ped : 57 : omori
+: Oriental Ped : 58 : omost
+: Normal Ped : 59 : omyri
+: Normal Ped : 60 : omyst
+: Pilot : 61 : wmyplt
+: Colonel Fuhrberger : 62 : wmopj
+: Prostitute : 63 : bfypro
+: Prostitute : 64 : hfypro
+: Kendl Johnson : 65 : kendl
+: Pool Player : 66 : bmypol1
+: Pool Player : 67 : bmypol2
+: Priest/Preacher : 68 : wmoprea
+: Normal Ped : 69 : sbfyst
+: Scientist : 70 : wmosci
+: Security Guard : 71 : wmysgrd
+: Hippy : 72 : swmyhp1
+: Hippy : 73 : swmyhp2
+: - : 74 : -
+: Prostitute : 75 : swfopro
+: Stewardess : 76 : wfystew
+: Homeless : 77 : swmotr1
+: Homeless : 78 : wmotr1
+: Homeless : 79 : bmotr1
+: Boxer : 80 : vbmybox
+: Boxer : 81 : vwmybox
+: Black Elvis : 82 : vhmyelv
+: White Elvis : 83 : vbmyelv
+: Blue Elvis : 84 : vimyelv
+: Prostitute : 85 : vwfypro
+: Ryder with robbery mask : 86 : ryder3
+: Stripper : 87 : vwfyst1
+: Normal Ped : 88 : wfori
+: Normal Ped : 89 : wfost
+: Jogger : 90 : wfyjg
+: Rich Woman : 91 : wfyri
+: Rollerskater : 92 : wfyro
+: Normal Ped : 93 : wfyst
+: Normal Ped : 94 : wmori
+: Normal Ped, Works at or owns Dillimore Gas Station : 95 : wmost
+: Jogger : 96 : wmyjg
+: Lifeguard : 97 : wmylg
+: Normal Ped : 98 : wmyri
+: Rollerskater : 99 : wmyro
+: Biker : 100 : wmycr
+: Normal Ped : 101 : wmyst
+: Balla : 102 : ballas1
+: Balla : 103 : ballas2
+: Balla : 104 : ballas3
+: Grove Street Families : 105 : fam1
+: Grove Street Families : 106 : fam2
+: Grove Street Families : 107 : fam3
+: Los Santos Vagos : 108 : lsv1
+: Los Santos Vagos : 109 : lsv2
+: Los Santos Vagos : 110 : lsv3
+: The Russian Mafia : 111 : maffa
+: The Russian Mafia : 112 : maffb
+: The Russian Mafia : 113 : mafboss
+: Varios Los Aztecas : 114 : vla1
+: Varios Los Aztecas : 115 : vla2
+: Varios Los Aztecas : 116 : vla3
+: Triad : 117 : triada
+: Triad : 118 : triadb
+: Johhny Sindacco : 119 : sindaco
+: Triad Boss : 120 : triboss
+: Da Nang Boy : 121 : dnb1
+: Da Nang Boy : 122 : dnb2
+: Da Nang Boy : 123 : dnb3
+: The Mafia : 124 : vmaff1
+: The Mafia : 125 : vmaff2
+: The Mafia : 126 : vmaff3
+: The Mafia : 127 : vmaff4
+: Farm Inhabitant : 128 : dnmylc
+: Farm Inhabitant : 129 : dnfolc1
+: Farm Inhabitant : 130 : dnfolc2
+: Farm Inhabitant : 131 : dnfylc
+: Farm Inhabitant : 132 : dnmolc1
+: Farm Inhabitant : 133 : dnmolc2
+: Homeless : 134 : sbmotr2
+: Homeless : 135 : swmotr2
+: Normal Ped : 136 : sbmytr3
+: Homeless : 137 : swmotr3
+: Beach Visitor : 138 : wfybe
+: Beach Visitor : 139 : bfybe
+: Beach Visitor : 140 : hfybe
+: Businesswoman : 141 : sofybu
+: Taxi Driver : 142 : sbmyst
+: Crack Maker : 143 : sbmycr
+: Crack Maker : 144 : bmycg
+: Crack Maker : 145 : wfycrk
+: Crack Maker : 146 : hmycm
+: Businessman : 147 : wmybu
+: Businesswoman : 148 : bfybu
+: Big Smoke Armored : 149 : smokev
+: Businesswoman : 150 : wfybu
+: Normal Ped : 151 : dwfylc1
+: Prostitute : 152 : wfypro
+: Construction Worker : 153 : wmyconb
+: Beach Visitor : 154 : wmybe
+: Well Stacked Pizza Worker : 155 : wmypizz
+: Barber : 156 : bmobar
+: Hillbilly : 157 : cwfyhb
+: Farmer : 158 : cwmofr
+: Hillbilly : 159 : cwmohb1
+: Hillbilly : 160 : cwmohb2
+: Farmer : 161 : cwmyfr
+: Hillbilly : 162 : cwmyhb1
+: Black Bouncer : 163 : bmyboun
+: White Bouncer : 164 : wmyboun
+: White MIB agent : 165 : wmomib
+: Black MIB agent : 166 : bmymib
+: Cluckin' Bell Worker : 167 : wmybell
+: Hotdog/Chilli Dog Vendor : 168 : bmochil
+: Normal Ped : 169 : sofyri
+: Normal Ped : 170 : somyst
+: Blackjack Dealer : 171 : vwmybjd
+: Casino croupier : 172 : vwfycrp
+: San Fierro Rifa : 173 : sfr1
+: San Fierro Rifa : 174 : sfr2
+: San Fierro Rifa : 175 : sfr3
+: Barber : 176 : bmybar
+: Barber : 177 : wmybar
+: Whore : 178 : wfysex
+: Ammunation Salesman : 179 : wmyammo
+: Tattoo Artist : 180 : bmytatt
+: Punk : 181 : vwmycr
+: Cab Driver : 182 : vbmocd
+: Normal Ped : 183 : vbmycr
+: Normal Ped : 184 : vhmycr
+: Normal Ped : 185 : sbmyri
+: Normal Ped : 186 : somyri
+: Businessman : 187 : somybu
+: Normal Ped : 188 : swmyst
+: Valet : 189 : wmyva
+: Barbara Schternvart : 190 : copgrl3
+: Helena Wankstein : 191 : gungrl3
+: Michelle Cannes : 192 : mecgrl3
+: Katie Zhan : 193 : nurgrl3
+: Millie Perkins : 194 : crogrl3
+: Denise Robinson : 195 : gangrl3
+: Farm-Town inhabitant : 196 : cwfofr
+: Hillbilly : 197 : cwfohb
+: Farm-Town inhabitant : 198 : cwfyfr1
+: Farm-Town inhabitant : 199 : cwfyfr2
+: Hillbilly : 200 : cwmyhb2
+: Farmer : 201 : dwfylc2
+: Farmer : 202 : dwmylc2
+: Karate Teacher : 203 : omykara
+: Karate Teacher : 204 : wmykara
+: Burger Shot Cashier : 205 : wfyburg
+: Cab Driver : 206 : vwmycd
+: Prostitute : 207 : vhfypro
+: Su Xi Mu (Suzie) : 208 : suzie
+: Oriental Noodle stand vendor : 209 : omonood
+: Oriental Boating School Instructor : 210 : omoboat
+: Clothes shop staff : 211 : wfyclot
+: Homeless : 212 : vwmotr1
+: Weird old man : 213 : vwmotr2
+: Waitress (Maria Latore) : 214 : vwfywai
+: Normal Ped : 215 : sbfori
+: Normal Ped : 216 : swfyri
+: Clothes shop staff : 217 : wmyclot
+: Normal Ped : 218 : sbfost
+: Rich Woman : 219 : sbfyri
+: Cab Driver : 220 : sbmocd
+: Normal Ped : 221 : sbmori
+: Normal Ped : 222 : sbmost
+: Normal Ped : 223 : shmycr
+: Normal Ped : 224 : sofori
+: Normal Ped : 225 : sofost
+: Normal Ped : 226 : sofyst
+: Oriental Businessman : 227 : somobu
+: Oriental Ped : 228 : somori
+: Oriental Ped : 229 : somost
+: Homeless : 230 : swmotr5
+: Normal Ped : 231 : swfori
+: Normal Ped : 232 : swfost
+: Normal Ped : 233 : swfyst
+: Cab Driver : 234 : swmocd
+: Normal Ped : 235 : swmori
+: Normal Ped : 236 : swmost
+: Prostitute : 237 : shfypro
+: Prostitute : 238 : sbfypro
+: Homeless : 239 : swmotr4
+: The D.A : 240 : swmyri
+: Afro-American : 241 : smyst
+: Mexican : 242 : smyst2
+: Prostitute : 243 : sfypro
+: Stripper : 244 : vbfyst2
+: Prostitute : 245 : vbfypro
+: Stripper : 246 : vhfyst3
+: Biker : 247 : bikera
+: Biker : 248 : bikerb
+: Pimp : 249 : bmypimp
+: Normal Ped : 250 : swmycr
+: Lifeguard : 251 : wfylg
+: Naked Valet : 252 : wmyva2
+: Bus Driver : 253 : bmosec
+: Biker Drug Dealer : 254 : bikdrug
+: Chauffeur (Limo Driver) : 255 : wmych
+: Stripper : 256 : sbfystr
+: Stripper : 257 : swfystr
+: Heckler : 258 : heck1
+: Heckler : 259 : heck2
+: Construction Worker : 260 : bmycon
+: Cab driver : 261 : wmycd1
+: Cab driver : 262 : bmocd
+: Normal Ped : 263 : vwfywa2
+: Clown (Ice-cream Van Driver) : 264 : wmoice
+: Officer Frank Tenpenny (Corrupt Cop) : 265 : tenpen
+: Officer Eddie Pulaski (Corrupt Cop) : 266 : pulaski
+: Officer Jimmy Hernandez : 267 : hern
+: Dwaine/Dwayne : 268 : dwayne
+: Melvin "Big Smoke" Harris (Mission) : 269 : smoke
+: Sean 'Sweet' Johnson : 270 : sweet
+: Lance 'Ryder' Wilson : 271 : ryder
+: Mafia Boss : 272 : forelli
+: T-Bone Mendez : 273 : tbone
+: Paramedic (Emergency Medical Technician) : 274 : laemt1
+: Paramedic (Emergency Medical Technician) : 275 : lvemt1
+: Paramedic (Emergency Medical Technician) : 276 : sfemt1
+: Firefighter : 277 : lafd1
+: Firefighter : 278 : lvfd1
+: Firefighter : 279 : sffd1
+: Los Santos Police Officer : 280 : lapd1
+: San Fierro Police Officer : 281 : sfpd1
+: Las Venturas Police Officer : 282 : lvpd1
+: County Sheriff : 283 : csher
+: LSPD Motorbike Cop : 284 : lapdm1
+: S.W.A.T Special Forces : 285 : swat
+: Federal Agent : 286 : fbi
+: San Andreas Army : 287 : army
+: Desert Sheriff : 288 : dsher
+: Zero : 289 : zero
+: Ken Rosenberg : 290 : rose
+: Kent Paul : 291 : paul
+: Cesar Vialpando : 292 : cesar
+: Jeffery "OG Loc" Martin/Cross : 293 : ogloc
+: Wu Zi Mu (Woozie) : 294 : wuzimu
+: Michael Toreno : 295 : torino
+: Jizzy B. : 296 : jizzy
+: Madd Dogg : 297 : maddogg
+: Catalina : 298 : cat
+: Claude Speed : 299 : claude
+: Los Santos Police Officer (Without gun holster) : 300 : lapdna
+: San Fierro Police Officer (Without gun holster) : 301 : sfpdna
+: Las Venturas Police Officer (Without gun holster) : 302 : lvpdna
+: Los Santos Police Officer (Without uniform) : 303 : lapdpc
+: Los Santos Police Officer (Without uniform) : 304 : lapdpd
+: Las Venturas Police Officer (Without uniform) : 305 : lvpdpc
+: Los Santos Police Officer : 306 : wfyclpd
+: San Fierro Police Officer : 307 : vbfycpd
+: San Fierro Paramedic (Emergency Medical Technician) : 308 : wfyclem
+: Las Venturas Police Officer : 309 : wfycllv
+: Country Sheriff (Without hat) : 310 : csherna
+: Desert Sheriff (Without hat) : 311 : dsherna
