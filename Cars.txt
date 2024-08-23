@@ -1,0 +1,212 @@
+: Landstalker : 400 : landstal
+: Bravura : 401 : bravura
+: Buffalo : 402 : buffalo
+: Linerunner : 403 : linerun
+: Perennial : 404 : peren
+: Sentinel : 405 : sentinel
+: Dumper : 406 : dumper
+: Firetruck : 407 : firetruk
+: Trashmaster : 408 : trash
+: Stretch : 409 : stretch
+: Manana : 410 : manana
+: Infernus : 411 : infernus
+: Voodoo : 412 : voodoo
+: Pony : 413 : pony
+: Mule : 414 : mule
+: Cheetah : 415 : cheetah
+: Ambulance : 416 : ambulan
+: Leviathan : 417 : leviathn
+: Moonbeam : 418 : moonbeam
+: Esperanto : 419 : esperant
+: Taxi : 420 : taxi
+: Washington : 421 : washing
+: Bobcat : 422 : bobcat
+: Mr. Whoopee : 423 : mrwhoop
+: BF Injection : 424 : bfinject
+: Hunter : 425 : hunter
+: Premier : 426 : premier
+: Enforcer : 427 : enforcer
+: Securicar : 428 : securica
+: Banshee : 429 : banshee
+: Predator : 430 : predator
+: Bus : 431 : bus
+: Rhino : 432 : rhino
+: Barracks : 433 : barracks
+: Hotknife : 434 : hotknife
+: Article Trailer : 435 : artict1
+: Previon : 436 : previon
+: Coach : 437 : coach
+: Cabbie : 438 : cabbie
+: Stallion : 439 : stallion
+: Rumpo : 440 : rumpo
+: RC Bandit : 441 : rcbandit
+: Romero : 442 : romero
+: Packer : 443 : packer
+: Monster : 444 : monster
+: Admiral : 445 : admiral
+: Squallo : 446 : squalo
+: Seasparrow : 447 : seaspar
+: Pizzaboy : 448 : pizzaboy
+: Tram : 449 : tram
+: Article Trailer 2 : 450 : artict2
+: Turismo : 451 : turismo
+: Speeder : 452 : speeder
+: Reefer : 453 : reefer
+: Tropic : 454 : tropic
+: Flatbed : 455 : flatbed
+: Yankee : 456 : yankee
+: Caddy : 457 : caddy
+: Solair : 458 : solair
+: Topfun Van (Berkley's RC) : 459 : topfun
+: Skimmer : 460 : skimmer
+: PCJ-600 : 461 : pcj600
+: Faggio : 462 : faggio
+: Freeway : 463 : freeway
+: RC Baron : 464 : rcbaron
+: RC Raider : 465 : rcraider
+: Glendale : 466 : glendale
+: Oceanic : 467 : oceanic
+: Sanchez : 468 : sanchez
+: Sparrow : 469 : sparrow
+: Patriot : 470 : patriot
+: Quad : 471 : quad
+: Coastguard : 472 : coastg
+: Dinghy : 473 : dinghy
+: Hermes : 474 : hermes
+: Sabre : 475 : sabre
+: Rustler : 476 : rustler
+: ZR-350 : 477 : zr350
+: Walton : 478 : walton
+: Regina : 479 : regina
+: Comet : 480 : comet
+: BMX : 481 : bmx
+: Burrito : 482 : burrito
+: Camper : 483 : camper
+: Marquis : 484 : marquis
+: Baggage : 485 : baggage
+: Dozer : 486 : dozer
+: Maverick : 487 : maverick
+: SAN News Maverick : 488 : vcnmav
+: Rancher : 489 : rancher
+: FBI Rancher : 490 : fbiranch
+: Virgo : 491 : virgo
+: Greenwood : 492 : greenwoo
+: Jetmax : 493 : jetmax
+: Hotring Racer : 494 : hotring
+: Sandking : 495 : sandking
+: Blista Compact : 496 : blistac
+: Police Maverick : 497 : polmav
+: Boxville : 498 : boxville
+: Benson : 499 : benson
+: Mesa : 500 : mesa
+: RC Goblin : 501 : rcgoblin
+: Hotring Racer A : 502 : hotrina
+: Hotring Racer B : 503 : hotrinb
+: Bloodring Banger : 504 : bloodra / bloodrb
+: Rancher Lure : 505 : rnchlure
+: Super GT : 506 : supergt
+: Elegant : 507 : elegant
+: Journey : 508 : journey
+: Bike : 509 : bike
+: Mountain Bike : 510 : mtbike
+: Beagle : 511 : beagle
+: Cropduster : 512 : cropdust
+: Stuntplane : 513 : stunt
+: Tanker : 514 : petro
+: Roadtrain : 515 : rdtrain
+: Nebula : 516 : nebula
+: Majestic : 517 : majestic
+: Buccaneer : 518 : buccanee
+: Shamal : 519 : shamal
+: Hydra : 520 : hydra
+: FCR-900 : 521 : fcr900
+: NRG-500 : 522 : nrg500
+: HPV1000 : 523 : copbike
+: Cement Truck : 524 : cement
+: Towtruck : 525 : towtruck
+: Fortune : 526 : fortune
+: Cadrona : 527 : cadrona
+: FBI Truck : 528 : fbitruck
+: Willard : 529 : willard
+: Forklift : 530 : forklift
+: Tractor : 531 : tractor
+: Combine Harvester : 532 : combine
+: Feltzer : 533 : feltzer
+: Remington : 534 : remingtn
+: Slamvan : 535 : slamvan
+: Blade : 536 : blade
+: Freight (Train) : 537 : freight
+: Brownstreak (Train) : 538 : streak
+: Vortex : 539 : vortex
+: Vincent : 540 : vincent
+: Bullet : 541 : bullet
+: Clover : 542 : clover
+: Sadler : 543 : sadler
+: Firetruck LA : 544 : firela
+: Hustler : 545 : hustler
+: Intruder : 546 : intruder
+: Primo : 547 : primo
+: Cargobob : 548 : cargobob
+: Tampa : 549 : tampa
+: Sunrise : 550 : sunrise
+: Merit : 551 : merit
+: Utility Van : 552 : utility
+: Nevada : 553 : nevada
+: Yosemite : 554 : yosemite
+: Windsor : 555 : windsor
+: Monster "A" : 556 : monstera
+: Monster "B" : 557 : monsterb
+: Uranus : 558 : uranus
+: Jester : 559 : jester
+: Sultan : 560 : sultan
+: Stratum : 561 : stratum
+: Elegy : 562 : elegy
+: Raindance : 563 : raindanc
+: RC Tiger : 564 : rctiger
+: Flash : 565 : flash
+: Tahoma : 566 : tahoma
+: Savanna : 567 : savanna
+: Bandito : 568 : bandito
+: Freight Flat Trailer (Train) : 569 : freiflat
+: Streak Trailer (Train) : 570 : streakc
+: Kart : 571 : kart
+: Mower : 572 : mower
+: Dune : 573 : duneride
+: Sweeper : 574 : sweeper
+: Broadway : 575 : broadway
+: Tornado : 576 : tornado
+: AT400 : 577 : at400
+: DFT-30 : 578 : dft30
+: Huntley : 579 : huntley
+: Stafford : 580 : stafford
+: BF-400 : 581 : bf400
+: Newsvan : 582 : newsvan
+: Tug : 583 : tug
+: Petrol Trailer : 584 : petrotr
+: Emperor : 585 : emperor
+: Wayfarer : 586 : wayfarer
+: Euros : 587 : euros
+: Hotdog : 588 : hotdog
+: Club : 589 : club
+: Freight Box Trailer (Train) : 590 : freibox
+: Article Trailer 3 : 591 : artict3
+: Andromada : 592 : androm
+: Dodo : 593 : dodo
+: RC Cam : 594 : rccam
+: Launch : 595 : launch
+: Police Car (LSPD) : 596 : copcarla
+: Police Car (SFPD) : 597 : copcarsf
+: Police Car (LVPD) : 598 : copcarvg
+: Police Ranger : 599 : copcarru
+: Picador : 600 : picador
+: S.W.A.T. : 601 : swatvan
+: Alpha : 602 : alpha
+: Phoenix : 603 : phoenix
+: Glendale Shit : 604 : glenshit
+: Sadler Shit : 605 : sadlshit
+: Baggage Trailer "A" : 606 : bagboxa
+: Baggage Trailer "B" : 607 : bagboxb
+: Tug Stairs Trailer : 608 : tugstair
+: Boxville : 609 : boxburg
+: Farm Trailer : 610 : farmtr1
+: Utility Trailer : 611 : utiltr1
