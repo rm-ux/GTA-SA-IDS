@@ -1,6 +1,6 @@
 # GTA-SA-IDS
 
-Welcome to **GTA-SA-IDS**, a comprehensive repository of information for skins, cars, colors, and more in **Grand Theft Auto: San Andreas**. This project powers the Telegram bot [`@idkimgonnakmsbot`](https://t.me/idkimgonnakmsbot), allowing you to quickly access this information directly from Telegram.
+Welcome to **GTA-SA-IDS**, a comprehensive repository of information for skins, cars, colors, and more in **Grand Theft Auto: San Andreas**. This project powers the Telegram bot [`@yepimgonnakmsbot`](https://t.me/yepimgonnakmsbot), allowing you to quickly access this information directly from Telegram.
 
 ## Features
 
@@ -16,7 +16,7 @@ Interact with the bot on Telegram to easily retrieve information:
 - `/car <name>`: Retrieve the ID and information of a vehicle by entering its name.
 - `/color`: View a picture with all available colors, allowing you to choose the one you need.
 
-To get started, simply message the bot at [t.me/idkimgonnakmsbot](https://t.me/idkimgonnakmsbot) with any of the commands above.
+To get started, simply message the bot at [t.me/yepimgonnakmsbot](https://t.me/yepimgonnakmsbot) with any of the commands above.
 
 ## Contributing
 
@@ -24,4 +24,4 @@ Contributions are welcome! If you have additional information, corrections, or s
 
 ## Contact
 
-For any inquiries or support, you can reach out directly via Telegram: [@idkimgonnakmsbot](https://t.me/idkimgonnakmsbot).
+For any inquiries or support, you can reach out directly via Telegram: [@yepimgonnakmsbot](https://t.me/yepimgonnakmsbot).
