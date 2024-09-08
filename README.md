@@ -1,9 +1,9 @@
 <h1 align="center">
-   Blank Grabber
+   rmx Grabber
 </h1>
 <p align="center">
    <kbd>
-   <img src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
+   <img src="https://i.ibb.co/pPm2xKD/otters-home-20240908-0001.jpg">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
